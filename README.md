@@ -110,7 +110,7 @@ This method is used to sense the distance between each robot location ```Xi``` a
 ```
 <br />
 
->> code for robot class can be found in ```robot_class.py``` file.
+> code for robot class can be found in ```robot_class.py``` file.
 
 <br />
 
