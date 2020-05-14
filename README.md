@@ -110,7 +110,7 @@ This method is used to sense the distance between each robot location ```Xi``` a
 ```
 <br />
 
-> code for robot class can be found in ```robot_class.py``` file.
+> Code for robot class can be found in ```robot_class.py``` file.
 
 <br />
 
@@ -124,9 +124,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
 
